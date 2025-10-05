@@ -1,0 +1,397 @@
+01:34:55.061 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+01:34:55.104 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+01:35:00.412 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+01:35:00.699 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+01:35:01.124 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+01:35:07.061 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+01:36:50.385 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\grouping.xml
+
+01:37:01.688 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:37:02.054 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+01:37:02.967 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+01:37:04.574 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+01:37:04.839 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+01:37:06.148 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+01:37:06.270 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+01:37:06.270 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+01:37:10.968 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+01:37:11.292 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+01:37:11.755 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+01:37:13.892 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+01:42:56.583 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\grouping.xml
+
+01:43:04.893 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:43:05.227 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+01:43:05.908 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+01:43:07.999 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+01:43:08.371 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+01:43:09.925 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+01:43:10.157 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+01:43:10.159 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+01:43:14.718 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+01:43:14.922 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+01:43:15.399 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+01:43:17.674 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+01:49:25.914 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\grouping.xml
+
+01:49:32.568 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:49:32.813 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+01:49:33.393 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+01:49:35.162 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+01:49:35.436 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+01:49:36.882 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+01:49:37.026 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+01:49:37.026 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+01:49:41.158 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+01:49:41.315 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+01:49:41.722 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+01:49:44.158 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+01:54:16.828 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\crossBrowserTesting.xml
+
+01:54:30.111 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:54:30.352 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:54:31.191 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+01:54:31.465 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+01:54:39.404 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:54:39.683 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+01:54:40.242 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+01:54:40.741 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+01:54:40.875 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+01:54:41.213 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+01:54:42.159 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+01:54:42.159 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+01:54:51.662 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+01:55:11.731 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+01:56:46.501 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\crossBrowserTesting.xml
+
+01:56:56.936 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:56:57.818 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:56:58.415 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+01:56:58.838 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+01:57:05.048 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:57:05.555 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+01:57:06.338 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+01:57:07.135 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+01:57:07.254 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+01:57:07.652 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+01:57:08.530 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+01:57:08.531 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+01:57:19.021 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+01:57:39.052 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+01:59:08.733 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\grouping.xml
+
+01:59:14.277 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:59:14.494 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+01:59:15.079 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+01:59:17.146 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+01:59:17.286 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+01:59:18.561 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+01:59:18.647 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+01:59:18.647 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+01:59:23.017 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+01:59:23.157 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+01:59:23.503 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+01:59:25.915 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+01:59:58.032 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\test-output\testng-failed.xml
+
+02:00:07.004 [main] INFO  testCases.TC003_LoginTestDDT - ***** Starting TC003_loginTestDDT *****
+02:00:07.230 [main] INFO  testCases.TC003_LoginTestDDT - ***** Clicked My Account Link *****
+02:00:07.942 [main] INFO  testCases.TC003_LoginTestDDT - ***** Clicked Register Link *****
+02:02:52.007 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\crossBrowserTesting.xml
+
+02:03:02.458 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:03:02.709 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:03:03.139 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:03:03.381 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:03:09.659 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:03:09.953 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:03:10.454 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:03:10.887 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:03:10.996 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:03:11.246 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:03:12.101 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:03:12.103 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:03:22.421 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:03:22.441 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+02:03:22.441 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+02:03:54.552 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\crossBrowserTesting.xml
+
+02:03:58.739 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:03:58.889 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:03:59.315 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:04:00.139 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:04:00.233 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:04:01.601 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:04:01.671 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:04:01.671 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:04:09.000 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:04:09.447 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:04:09.958 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:04:13.514 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:04:13.684 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:04:17.409 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:04:17.591 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:04:17.591 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:04:27.846 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:04:28.024 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:04:28.585 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:04:28.985 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:04:29.083 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:04:29.305 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:04:30.067 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:04:30.067 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:05:08.581 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\grouping.xml
+
+02:05:12.149 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:05:12.300 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:05:12.763 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:05:13.522 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:05:13.665 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:05:14.695 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:05:14.762 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:05:14.762 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:05:17.422 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+02:05:17.515 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+02:05:17.819 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+02:05:19.127 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+02:05:58.018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\grouping.xml
+
+02:06:02.578 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:06:02.738 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:06:03.891 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:06:04.607 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:06:04.715 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:06:05.702 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:06:05.777 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:06:05.777 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:06:08.482 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+02:06:08.578 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+02:06:08.861 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+02:06:29.352 [main] ERROR testCases.TC002_LoginTest - Test Failed...
+02:07:21.345 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\test-output\testng-failed.xml
+
+02:07:26.073 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+02:07:26.234 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+02:07:26.553 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+02:07:27.858 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+22:46:56.266 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\master.xml
+
+22:47:03.974 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:47:04.266 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+22:47:04.762 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+22:47:06.029 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+22:47:06.186 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+22:47:07.443 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+22:47:07.533 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+22:47:07.534 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:47:10.550 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+22:47:10.677 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+22:47:10.994 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+22:47:12.322 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+22:47:53.142 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\master.xml
+
+22:47:57.710 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:47:58.111 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+22:47:58.830 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+22:48:00.195 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+22:48:00.378 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+22:48:01.658 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+22:48:01.733 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+22:48:01.733 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:48:05.058 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+22:48:05.256 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+22:48:05.662 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+22:48:26.214 [main] ERROR testCases.TC002_LoginTest - Test Failed...
+22:49:00.384 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\test-output\testng-failed.xml
+
+22:49:04.501 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+22:49:04.655 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+22:49:04.966 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+22:49:06.315 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+22:49:22.341 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\master.xml
+
+22:49:25.950 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:49:26.098 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+22:49:26.539 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+22:49:27.345 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+22:49:27.452 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+22:49:28.707 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+22:49:28.791 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+22:49:28.791 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:49:31.283 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+22:49:31.374 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+22:49:31.672 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+22:49:32.945 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+22:50:32.797 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\OpenCart\master.xml
+
+22:50:38.882 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:50:39.213 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+22:50:39.741 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+22:50:40.581 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+22:50:40.688 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+22:50:41.814 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+22:50:41.908 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+22:50:41.908 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:50:45.499 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+22:50:45.674 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+22:50:46.117 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+22:50:47.848 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+23:41:51.178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\ECommerce-Automation-Framework\master.xml
+
+23:42:00.665 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+23:42:00.910 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+23:42:01.282 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+23:42:03.243 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+23:42:21.840 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\ECommerce-Automation-Framework\master.xml
+
+23:42:25.504 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+23:42:25.638 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+23:42:26.059 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+23:42:26.747 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+23:42:26.855 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+23:42:27.933 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+23:42:27.990 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+23:42:27.990 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+23:42:30.553 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+23:42:30.633 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+23:42:30.925 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+23:42:32.388 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+02:11:54.256 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\ECommerce-Automation-Framework\grid-docker.xml
+
+02:12:21.633 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:12:23.158 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:12:24.051 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:12:34.654 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:12:35.096 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:12:41.602 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:12:41.713 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:12:41.713 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:13:14.319 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+02:13:14.590 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+02:13:14.955 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+02:13:16.665 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+02:14:18.031 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\ECommerce-Automation-Framework\grid-docker.xml
+
+02:15:46.668 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:15:51.589 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:15:54.302 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:16:01.444 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:16:01.716 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:16:03.275 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:16:03.517 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:16:03.517 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:16:19.932 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+02:16:20.280 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+02:16:21.102 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+02:16:26.788 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+02:18:00.359 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\ECommerce-Automation-Framework\grid-docker.xml
+
+02:19:11.914 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:19:16.066 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:19:18.853 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:19:21.821 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:19:22.235 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:19:24.198 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:19:24.351 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:19:24.351 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:19:48.664 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+02:19:49.017 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+02:19:49.568 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+02:19:53.563 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+02:21:13.296 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:21:14.607 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:21:16.446 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:21:19.061 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:21:19.215 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:21:19.757 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:21:20.575 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:21:20.575 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:21:45.467 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+02:21:47.692 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+02:21:48.859 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+02:21:55.226 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+02:40:02.074 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Avinash Tiwari\Documents\Automation\ECommerce-Automation-Framework\grid-docker.xml
+
+02:40:45.332 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:40:48.828 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:40:50.399 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:40:52.395 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:40:53.701 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:40:56.086 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:40:56.301 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:40:56.302 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:41:09.837 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+02:41:10.326 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+02:41:11.161 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+02:41:14.202 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+02:42:25.585 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:42:28.286 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+02:42:37.221 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+02:42:40.129 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+02:42:41.598 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+02:42:46.376 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+02:42:47.505 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+02:42:47.505 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:43:10.248 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+02:43:12.346 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+02:43:13.792 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+02:43:18.659 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+19:27:15.382 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19:27:15.655 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+19:27:16.209 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+19:27:17.506 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+19:27:17.663 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+19:27:18.919 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+19:27:19.004 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+19:27:19.004 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19:27:22.639 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+19:27:22.897 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+19:27:23.433 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+19:27:25.409 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+20:03:35.073 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+20:03:35.347 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+20:03:36.243 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+20:03:37.564 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+20:03:37.716 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+20:03:38.993 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+20:03:39.083 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+20:03:39.083 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:03:42.530 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+20:03:42.750 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+20:03:43.088 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+20:03:44.545 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
+20:10:04.980 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+20:10:05.185 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked My Account Link *****
+20:10:06.361 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Register Link *****
+20:10:07.364 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Entered User Info to Register *****
+20:10:07.569 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Privacy Policy Chekbox *****
+20:10:08.622 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked Submit/Continue Button *****
+20:10:08.715 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Verified Account Creation Message *****
+20:10:08.715 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:10:12.732 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+20:10:12.950 [main] INFO  testCases.TC002_LoginTest - ***** Clicked My Account Link *****
+20:10:13.269 [main] INFO  testCases.TC002_LoginTest - ***** Clicked Register Link *****
+20:10:14.583 [main] INFO  testCases.TC002_LoginTest - ***** Fnished TC002_LoginTest *****
