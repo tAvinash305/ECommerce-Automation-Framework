@@ -1,0 +1,47 @@
+******************************************************************************************
+Basic Commands
+******************************************************************************************
+docker version-> to check the version of client and server
+docker-compose version-> to check the version of docker-compose
+
+docker info-> to get all the info
+docker help-> to get the help for any command
+docker login-> to login to docker compose
+
+******************************************************************************************
+Images Related Commands
+******************************************************************************************
+1. docker images-> to get which images are present in docker
+2. docker pull <image_name>-> to pull the particular image in docker
+3. docker rmi <image_id>-> to remove an image
+
+******************************************************************************************
+Containers Related Commands
+******************************************************************************************
+1. docker ps-> to get currently running containers
+2. docker run <image_name>-> to create a container (If the image is not available, then docker will pull the image first and then it will create the container)
+3. docker start<container_id>-> to start a container
+4. docker stop <container_id>-> to stop a container
+5. docker rm <container_id>-> to remove a container
+6. docker run -it <image_name>-> to run a new instance of the image
+
+******************************************************************************************
+System Related Commands
+******************************************************************************************
+1. docker stats-> to see what RAM/ROM storage docker is using
+2. docker system df-> to get all the info about docker
+3. docker system prune -f-> to remove all the stopped container at one go
+
+******************************************************************************************
+Running automation framework
+******************************************************************************************
+docker network create grid
+docker run -d -p 4442-4444:4442-4444 --net grid --name selenium-hub selenium/hub
+docker run -d --net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_POST=4442 -e SE_EVENT_BUS_SUBSCRIBE_PORT=4443 selenium/node-chrome
+docker run -d --net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_POST=4442 -e SE_EVENT_BUS_SUBSCRIBE_PORT=4443 selenium/node-firefox
+
+******************************************************************************************
+Run automation framework using YAML File
+******************************************************************************************
+1. Create docker yaml file
+2. Rum command docker-compose up

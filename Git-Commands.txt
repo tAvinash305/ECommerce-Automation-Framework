@@ -1,0 +1,38 @@
+Open gitbash in project location
+
+**************************** ROUND-1 ****************************
+1. to create a local repository- (ONE-TIME)
+	git init
+
+2. provide user info to git repo- (ONE-TIME)
+	git config --global user.name "your name"
+	git config --global user.email "your email"
+	
+3. to check untracked files (in which new changes are present)-
+	git status
+	
+4. to add files to stage-
+	git add <file_name>/<folder_name>
+	git add -A (to add all the files and folders)
+	git add *.<extension> (to add all the same extension file)
+	
+5. to commit changes into local repo-
+	git commit -m "commit message"
+	
+6. to link local repo with the remote repo- (ONE-TIME)
+	capture the URL of remote repository- https://github.com/tAvinash305/ECommerce-Automation-Framework.git
+	git remote add origin "https://github.com/tAvinash305/ECommerce-Automation-Framework.git"
+	
+7. to push files from local repo to remote repo-
+	git push origin master
+	
+8. to pull the changes from remote repor to local repo-
+	git pull "https://github.com/tAvinash305/ECommerce-Automation-Framework.git"
+	
+**************************** ROUND-2 ****************************
+1. git add -A
+2. git commit -m "commit message"
+3. git push origin master
+
+**************************** CLONE A REPO ****************************
+- git clone "URL"
